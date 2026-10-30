@@ -4,9 +4,9 @@
 ﹋﹋﹋﹋
 
 ㅤㅤㅤㅤㅤㅤ▬▬ι═══════ﺤ ㅤ𒉼𒀼𒁇𐏓𒆸𐎠𒀼   𓄧
-<div id="header">
-  <img src="https://media.giphy.com/media/rhgpS72ObdMdaYdY1k/giphy.gif" width="300"/>
-</div>
+<div id="header"> 
+  <img src="https://media.giphy.com/media/rhgpS72ObdMdaYdY1k/giphy.gif" style="object-fit: contain; margin-left: auto; margin-right: 4rem;"> 
+  </div>
 
 
          ᴜɪ ʀ ᴍɪsʜᴀ 𑄝
