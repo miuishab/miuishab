@@ -1,16 +1,16 @@
-## Hi there 👋
+##
 
-<!--
-**miuishab/miuishab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𓂃 ࣪ ˖ 𖦹  ㅤㅤㅤㅤ✦ㅤㅤ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=miuishab.visitor-badge&left_color=%23FFBB00&right_color=%23fb5381&logo=github&radius=10&height=23) ಇ.
+﹋﹋﹋﹋
 
-Here are some ideas to get you started:
+ㅤㅤㅤㅤㅤㅤ▬▬ι═══════ﺤ ㅤ𒉼𒀼𒁇𐏓𒆸𐎠𒀼   𓄧
+<div>
+  <img src="https://media.giphy.com/media/rhgpS72ObdMdaYdY1k/giphy.gif" width="50%" alt="Ui r Misha" style="object-fit: contain;"> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+         ᴜɪ ʀ ᴍɪsʜᴀ 𑄝
+           ʜᴇ / ᴛʜᴇʏ * ʀᴜ ᴇɴɢ ! 16
+        ≽^• ˕ • ྀི≼    ɪʀʟ 𝓣sᴜᴋᴀsᴀ & 𝐀ɪʀɪ 
+                                ⢏⢢⣀⡔⡹
