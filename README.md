@@ -8,7 +8,6 @@
   <img src="https://media.giphy.com/media/rhgpS72ObdMdaYdY1k/giphy.gif" width="100"/>
 </div>
 
-##
 
          ᴜɪ ʀ ᴍɪsʜᴀ 𑄝
            ʜᴇ / ᴛʜᴇʏ * ʀᴜ ᴇɴɢ ! 16
