@@ -1,11 +1,11 @@
-##
+## ════════
 
 𓂃 ࣪ ˖ 𖦹  ㅤㅤㅤㅤ✦ㅤㅤ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=miuishab.visitor-badge&left_color=%23FFBB00&right_color=%23fb5381&logo=github&radius=10&height=23) ಇ.
 ﹋﹋﹋﹋
 
 ㅤㅤㅤㅤㅤㅤ▬▬ι═══════ﺤ ㅤ𒉼𒀼𒁇𐏓𒆸𐎠𒀼   𓄧
-<div>
-  <img src="https://media.giphy.com/media/rhgpS72ObdMdaYdY1k/giphy.gif" width="50%" alt="Ui r Misha" style="object-fit: contain;"> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/rhgpS72ObdMdaYdY1k/giphy.gif" width="100"/>
 </div>
 
 ##
